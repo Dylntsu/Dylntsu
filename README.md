@@ -27,8 +27,8 @@
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github logo" />
 
+  <br >
   <br />
-  
 
 <div align="left">
   <a href="https://www.youtube.com/@dylansr2421" target="_blank">
